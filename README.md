@@ -1,6 +1,11 @@
 ## Pico_sine
 
-Just a test Raspberry Pi Pico project. How to draw sine curve.
+
+- How to draw sine curve.
+
+- I made two versions. Sine curve test and sine-cosine closed curve test.
+
+### Note
 
 Now I changed to [Earle F. Philhower](https://github.com/earlephilhower/arduino-pico) board version.
 
@@ -32,7 +37,7 @@ Add to Arduino IDE:
 </p>
  
 
-### Include
+### Included libraries
 ```
 #include <SPI.h>
 #include <Wire.h>
